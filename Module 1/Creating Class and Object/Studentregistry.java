@@ -5,13 +5,13 @@ public class StudentRegistry {
         Student s1 = new Student();
         Student s2 = new Student();
 
-        s1.setStudentId("IT24001");
-        s1.setName("Saiba Khan");
+        s1.setStudentId("IT23049");
+        s1.setName("Siam Joadder");
         s1.setGrade(92);
         s1.setIsActive(true);
 
-        s2.setStudentId("IT24002");
-        s2.setName("Nilima Khan");
+        s2.setStudentId("IT23027");
+        s2.setName("Shoishob");
         s2.setGrade(85);
         s2.setIsActive(true);
 
