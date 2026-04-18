@@ -4,8 +4,8 @@ public class Main {
         Student s1 = new Student();
 
 
-        s1.setStudentId("IT24006");
-        s1.setName("Saiba Khan");
+        s1.setStudentId("IT23049");
+        s1.setName("Siam Joadder Shoishob");
         s1.setGrade(85);
         s1.setIsActive(true);
 
